@@ -1,0 +1,10 @@
+src/engine/old*
+src/logs/*
+src/interfaces/*
+!src/interfaces/examples
+src/test*
+releases/*
+**/Thumbs.db
+**/Desktop.ini
+build*
+ssl*
